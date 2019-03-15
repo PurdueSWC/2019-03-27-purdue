@@ -608,13 +608,13 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
-  {% comment %}
+
   <p>
     Once you are done installing the software listed above,
     please go to <a href="setup/index.html">this page</a>,
     which has instructions on how to test that everything was installed correctly.
   </p>
-  {% endcomment %}
+
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
 {% comment %}
